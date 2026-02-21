@@ -1,17 +1,6 @@
 ## Telegram Website Monitoring B
 - Weekly summary reports
-- History and uptime statistics
-
-### Tech Stack
-- Python 3.10+
-- aiogram 3.x
-- SQLAlchemy 2.x (async, SQLite via aiosqlite)
-- aiohttp, APScheduler
-
-### Quick Start
-1) Create and fill environment file:
-```
-cp .env.example .env
+- 
 ```
 Edit `.env` with your values.
 
