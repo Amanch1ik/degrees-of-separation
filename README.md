@@ -1,11 +1,4 @@
-## Telegram Website Monitoring Bot
-
-E2E monitoring bot for website uptime with notifications, weekly reports, and history.
-
-### Features
-- Add/remove sites with per-site intervals
-- Async checks (HTTP status, latency, optional content change detection)
-- Instant downtime/recovery alerts
+## Telegram Website Monitoring B
 - Weekly summary reports
 - History and uptime statistics
 
