@@ -1,19 +1,5 @@
 ## Telegram Website Monitoring B
-- Weekly summary reports
-- 
-```
-Edit `.env` with your values.
-
-2) (Optional) Create and activate venv.
-
-3) Install dependencies:
-```
-pip install -r requirements.txt
-```
-
-4) Run the bot:
-```
-python -m site_monitor_bot
+- Weekly 
 ```
 
 ### Commands (basic)
